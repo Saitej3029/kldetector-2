@@ -1,0 +1,8 @@
+# Requirements for Windows EDR system
+
+# List your project dependencies below
+
+pandas
+numpy
+scikit-learn
+requests
